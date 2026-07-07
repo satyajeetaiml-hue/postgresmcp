@@ -15,10 +15,10 @@
       "value": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
     },
     "postgresResourceId": {
-      "value": "/subscriptions/<subscription-id>/resourceGroups/<postgres-resource-group>/providers/Microsoft.DBforPostgreSQL/flexibleServers/<postgres-server-name>"
+      "value": "/subscriptions/02edbacd-6b42-462f-a8d8-1ea75b7bbd43/resourceGroups/rg-postgres-01/providers/Microsoft.DBforPostgreSQL/flexibleServers/satyaserver"
     },
     "aifProjectResourceId": {
-      "value": "/subscriptions/<subscription-id>/resourceGroups/<aifoundry-resource-group>/providers/Microsoft.CognitiveServices/accounts/<parent-resource-name>/projects/<aifoundry-project-name>"
+      "value": "/subscriptions/02edbacd-6b42-462f-a8d8-1ea75b7bbd43/resourceGroups/rg-postgres-01/providers/Microsoft.CognitiveServices/accounts/fd-data-01"
     },
     "appInsightsConnectionString": {
       "value": "DISABLED"

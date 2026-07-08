@@ -18,7 +18,7 @@
       "value": "/subscriptions/02edbacd-6b42-462f-a8d8-1ea75b7bbd43/resourceGroups/rg-postgres-01/providers/Microsoft.DBforPostgreSQL/flexibleServers/satyaserver"
     },
     "aifProjectResourceId": {
-      "value": "/subscriptions/02edbacd-6b42-462f-a8d8-1ea75b7bbd43/resourceGroups/rg-postgres-01/providers/Microsoft.CognitiveServices/accounts/fd-data-01"
+      "value": "/subscriptions/02edbacd-6b42-462f-a8d8-1ea75b7bbd43/resourceGroups/rg-postgres-01/providers/Microsoft.CognitiveServices/accounts/fd-data-01/projects/fd-project-01"
     },
     "appInsightsConnectionString": {
       "value": "DISABLED"
